@@ -1,7 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karuniaraharjo&label=Profile%20views&color=0e75b6&style=flat" alt="karuniaraharjo"/></p>
 <h1 align="center">Hi 👋, I'am Karunia Raharjo</h1>
 <h3 align="center">Informatics Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karuniaraharjo&label=Profile%20views&color=0e75b6&style=flat" alt="karuniaraharjo"/></p>
 <!--
 **karuniaraharjo/karuniaraharjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
