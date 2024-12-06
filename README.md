@@ -1,9 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'am Karunia Raharjo</h1>
+<h3 align="center">Informatics Student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karuniaraharjo&label=Profile%20views&color=0e75b6&style=flat" alt="karuniaraharjo"/></p>
 <!--
 **karuniaraharjo/karuniaraharjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +14,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/karunia-raharjo-a56710254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karunia raharjo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/runz.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="runzjsx" height="30" width="40" /></a>
+</p>
